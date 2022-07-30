@@ -17,5 +17,6 @@ C# Endless Runner Unity Engine Game
 ![Page-1  C#UnityRunnerGame pdf](https://user-images.githubusercontent.com/106122834/181866082-33d8ac0c-6ff0-4fc6-9920-980179c8f482.jpeg)
 ## Picture of Endless Runner Game C#
 Contents were too large for GitHub to properly upload.
+![signature (2)](https://user-images.githubusercontent.com/106122834/181866268-56533eaa-2b5d-4594-b1c5-be6b72af9a60.png)
 ![signature](https://user-images.githubusercontent.com/106122834/181866192-a45e9e46-ef27-44f7-951c-721231a1cf1c.png)
-![signature (1)](https://user-images.githubusercontent.com/106122834/181866250-0d436ad1-ffcc-419f-a7bc-61f5a4a86c86.png)
+
