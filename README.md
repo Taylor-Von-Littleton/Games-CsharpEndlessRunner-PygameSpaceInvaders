@@ -6,7 +6,7 @@
 ### 5 - By the end of Task 5, you will be able to detect sprite collisions and take the necessary consequences.
 ![Page-1  SpaceInvadersPygame pdf](https://user-images.githubusercontent.com/106122834/181866033-7c7c0f15-9cb4-4c1d-8e36-cbfc91ef3f7c.jpeg)
 
-C# Endless Runner Unity Engine Game
+# C# Endless Runner Unity Engine Game
 ### 1 - By the end of Task 1, you will be able to set up your environment in Unity.
 ### 2 - By the end of Task 2, you will be able to add game objects and adjust them based on your needs.
 ### 3 - By the end of Task 3, you will be able to identify the camera and make decisions regarding the needs of the game.
