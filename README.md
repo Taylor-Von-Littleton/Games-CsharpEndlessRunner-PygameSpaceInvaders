@@ -1,8 +1,9 @@
-# Pygame SpaceInvadersBy the end of Task 1, you will be able to set up a pygame program.
-### 1 - By the end of Task 2, you will be able to populate your window by creating the space invaders and the user.
-### 2 - By the end of Task 3, you will be able to make the space invaders move automatically and control user movements using the keyboard.
-### 3 - By the end of Task 4, you will be able to control the user's shooting using the space button as the invaders automatically shoot at random locations.
-### 4 - By the end of Task 5, you will be able to detect sprite collisions and take the necessary consequences.
+# Pygame SpaceInvaders
+### 1 - By the end of Task 1, you will be able to set up a pygame program.
+### 2 - By the end of Task 2, you will be able to populate your window by creating the space invaders and the user.
+### 3 - By the end of Task 3, you will be able to make the space invaders move automatically and control user movements using the keyboard.
+### 4 - By the end of Task 4, you will be able to control the user's shooting using the space button as the invaders automatically shoot at random locations.
+### 5 - By the end of Task 5, you will be able to detect sprite collisions and take the necessary consequences.
 ![Page-1  SpaceInvadersPygame pdf](https://user-images.githubusercontent.com/106122834/181866033-7c7c0f15-9cb4-4c1d-8e36-cbfc91ef3f7c.jpeg)
 
 C# Endless Runner Unity Engine Game
